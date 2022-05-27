@@ -1,2 +1,2 @@
 # alx-zero_day
-My first README.nd
+My first README.md
